@@ -54,7 +54,7 @@ The LEDs indicate the active signal, with the other LEDs turned OFF during each 
 
 ## Simulation
 
-**Tinkercad circuit:** [Open the simulation](PASTE_YOUR_TINKERCAD_LINK_HERE)
+**Tinkercad circuit:** [Open the simulation](https://www.tinkercad.com/things/hGIa6nddFZW-experimenting-subject-007?sharecode=KtqeVm1oH2Y1A837ts6DEt5kCIuVEf01PD_xwbcxRww)
 
 ## Engineering Notes
 
