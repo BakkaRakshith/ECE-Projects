@@ -48,7 +48,7 @@ This project uses an Arduino Uno and a TMP36 temperature sensor to monitor tempe
 
 ## Simulation
 
-**Tinkercad circuit:** [Open the simulation](PASTE_YOUR_TINKERCAD_LINK_HERE)
+**Tinkercad circuit:** [Open the simulation](https://www.tinkercad.com/things/jCnpnjC2eST-experimenting-subject-004?sharecode=LbiP7EEfXQSuw0gCAT_F9JuNco7q2RMCJW8qhhzWtCQ)
 
 ## Engineering Notes
 
