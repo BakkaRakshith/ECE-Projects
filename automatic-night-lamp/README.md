@@ -24,13 +24,42 @@ The LDR and a fixed resistor form a voltage divider. Changes in light level alte
 - **Bright conditions:** LED OFF
 - **Dark conditions:** LED ON
 
-## Verification
+## Evidence & Verification
 
-The circuit was tested in Tinkercad by changing the simulated light level.
+The circuit was tested under different simulated light conditions. The wiring remained unchanged; only the LDR light level was adjusted.
 
-## Evidence
+## Simulation
 
-Screenshots and the simulation link will be added here.
+**Tinkercad circuit:** [Open the simulation](https://www.tinkercad.com/things/8V9QawkApAe-automatic-night-lamp-using-ldr?sharecode=VLafE9SWGiSJJ5N4Gb10ugw_6s1JNAwwmCBm_fTDFv0)
+
+### 01 — Complete Circuit
+
+![Complete night lamp circuit](circuit.png)
+
+*Full circuit showing the LDR, transistor, LED, resistors, and connections.*
+
+### 02 — Bright Conditions
+
+![LED off in bright light](bright-light.png)
+
+**Expected result:** LED OFF.
+
+The circuit switches the LED off when the simulated ambient light level is high.
+
+### 03 — Dark Conditions
+
+![LED on in darkness](darkness.png)
+
+**Expected result:** LED ON.
+
+The circuit switches the LED on when the simulated ambient light level is low.
+
+## Engineering Notes
+
+- **Verification method:** Tinkercad simulation
+- **Key concepts:** LDR response, voltage divider, NPN transistor switching, and LED current limiting
+- **Current status:** Simulation completed
+- **Next improvement:** Test the circuit using physical components.
 
 ## Engineering Notes
 
